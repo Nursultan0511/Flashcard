@@ -1,0 +1,9 @@
+org\example\flashcard\Card.class
+org\example\flashcard\sorter\CardSorter.class
+org\example\flashcard\FlashcardApp.class
+org\example\flashcard\sorter\RandomSorter.class
+org\example\flashcard\sorter\RecentMistakesSorter.class
+org\example\flashcard\sorter\WorstFirstSorter.class
+org\example\flashcard\Main.class
+org\example\flashcard\CardLoader.class
+org\example\flashcard\FlashcardTrainer.class

@@ -1,0 +1,4 @@
+Which element has the chemical symbol 'O'? = Oxygen
+What is the square root of 81? = 9
+Who painted the Mona Lisa? = Leonardo 
+Which planet is known as the Red Planet? = Mars
